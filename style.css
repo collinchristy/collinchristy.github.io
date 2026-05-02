@@ -120,11 +120,12 @@ main {
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    max-width: 280px;
+    max-width: 100%;
 }
 
 .hero-image img {
-    width: 200px;
+    width: 100%;
+    max-width: 380px;
     height: auto;
     border-radius: 16px;
     box-shadow: 0 20px 60px rgba(96, 214, 255, 0.15);
