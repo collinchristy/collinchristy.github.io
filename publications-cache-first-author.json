@@ -1,0 +1,151 @@
+{
+  "response": {
+    "docs": [
+      {
+        "bibcode": "2026arXiv260427480C",
+        "abstract": "We report the detection of linear polarization in the radio afterglow of GRB 260310A, representing the first centimeter-wavelength polarization detection of a gamma-ray burst (GRB) afterglow and the first measurement of Faraday rotation in a GRB environment. We detect linearly polarized emission across $11-25$ GHz, with a polarization fraction decreasing monotonically from $(3.18 \\pm 0.18)\\%$ at 25 GHz to $(0.69 \\pm 0.22)\\%$ at 11 GHz. Interpreting the radio data as emission from a reverse shock in a structured, relativistic jet, the observed depolarization toward lower frequencies is consistent with suppression by synchrotron self-absorption, while the low observed polarization at high frequencies relative to the theoretical maximum suggests a patchy magnetic field in the jet with a coherence scale, $\u03b8_{\\rm B}\\approx10^{-2}$ rad. We identify a frequency-dependent rotation of the polarization angle consistent with Faraday rotation, with a rotation measure of ${\\rm RM} = -(8300 \\pm 90)~\\rm{rad/m^2}$ at the GRB redshift. The magnitude of the rotation measure is consistent with propagation through a dense, magnetized environment, such as a progenitor HII region. These findings demonstrate that GRB afterglows exhibit measurable linear polarization at centimeter wavelengths, and that their polarimetric properties probe both intrinsic jet magnetization and the surrounding medium. Future multi-frequency polarimetric monitoring over timescales of days to weeks will enable detailed studies of the evolution of magnetic field structure and provide new constraints on the role of magnetic fields in GRB afterglows.",
+        "author": [
+          "Christy, Collin T.",
+          "Laskar, Tanmoy",
+          "Alexander, Kate D.",
+          "Franz, Noah",
+          "Granot, Jonathan",
+          "Chornock, Ryan",
+          "Margutti, Raffaella",
+          "Gill, Ramandeep",
+          "Pearson, Jeniveve",
+          "Berger, Edo",
+          "Fong, Wen-fai",
+          "Rohde, Coleman",
+          "Schady, Patricia"
+        ],
+        "pub": "arXiv e-prints",
+        "title": [
+          "First Detection of Faraday Rotation in a Gamma-Ray Burst Afterglow: Low Polarization and High Rotation Measure in GRB 260310A Reveal Jet Magnetic Structure and Environment"
+        ],
+        "year": "2026"
+      },
+      {
+        "bibcode": "2026ApJ..1001..211C",
+        "abstract": "We present a detailed radio study of the tidal disruption events (TDEs) AT 2020zso and AT 2021sdu. Both exhibit transient radio emission beginning shortly after optical discovery and persisting for several years. For AT 2020zso, we identify two distinct radio flares. The first is detected in the radio \u223c22 days after the optical peak, reaching a maximum of \u223c1 yr post-discovery before fading. The second flare appears \u223c800 days after discovery and results in the brief presence of two distinct components in the radio spectra, providing strong evidence for physically separate outflows. Both flares are consistent with nonrelativistic outflows, with velocities of v \u224d 0.1\u25000.2c and energies of E \u223c 10<SUP>49</SUP> erg, propagating through a Bondi-like circumnuclear medium. Our analysis supports a scenario in which the first outflow is accretion driven, launched while the TDE disk is accreting at a relatively high Eddington fraction, whereas the second outflow is associated with a transition to an advection-dominated accretion flow. In contrast, the radio emission from AT 2021sdu is best explained by a slower (v \u224d 0.03c), less energetic outflow (E \u223c 10<SUP>48</SUP> erg), combined with diffuse, nonvariable host emission that becomes dominant \u223c500 days after discovery. Assuming free expansion, we infer an outflow launch date preceding the optical discovery date. This suggests that the outflow may originate from either the unbound stellar debris ejected during disruption or, alternatively, from a decelerating outflow. Our findings demonstrate the diversity of outflow properties in TDEs and highlight the observational challenges of interpreting late-time radio variability in the presence of host galaxy contamination.",
+        "author": [
+          "Christy, Collin T.",
+          "Alexander, Kate D.",
+          "Laskar, Tanmoy",
+          "Franz, Noah",
+          "Goodwin, Adelle J.",
+          "Pearson, Jeniveve",
+          "Berger, Edo",
+          "Cendes, Yvette",
+          "Chornock, Ryan",
+          "Coppejans, Deanne L.",
+          "Eftekhari, Tarraneh",
+          "Margutti, Raffaella",
+          "Miller-Jones, James C. A.",
+          "Krips, Melanie",
+          "Ramirez-Ruiz, Enrico",
+          "Sand, David J.",
+          "Saxton, Richard",
+          "Shrestha, Manisha",
+          "van Velzen, Sjoert"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": [
+          "Dichotomy in Long-lived Radio Emission from Tidal Disruption Events AT 2020zso and AT 2021sdu: Multicomponent Outflows versus Host Contamination"
+        ],
+        "year": "2026"
+      },
+      {
+        "bibcode": "2024ApJ...974...18C",
+        "abstract": "We present detailed radio observations of the tidal disruption event (TDE) ASASSN-19bt/AT 2019ahk, obtained with the Australia Telescope Compact Array, the Atacama Large Millimeter/submillimeter Array, and the MeerKAT radio telescopes, spanning 40\u25001464 days after the onset of the optical flare. We find that ASASSN-19bt displays unusual radio evolution compared to other TDEs, as the peak brightness of its radio emission increases rapidly until 457 days post-optical discovery and then plateaus. Using a generalized approach to standard equipartition techniques, we estimate the energy and corresponding physical parameters for two possible emission geometries: a nonrelativistic spherical outflow and a relativistic outflow observed from a range of viewing angles. We find that the nonrelativistic solution implies a continuous energy rise in the outflow from E \u223c 10<SUP>46</SUP> to E \u223c 10<SUP>49</SUP> erg with outflow speed \u03b2 \u224d 0.05, while the off-axis relativistic jet solution instead suggests E \u224d 10<SUP>52</SUP> erg with Lorentz factor \u0393 \u223c 10 at late times in the maximally off-axis case. We find that neither model provides a holistic explanation for the origin and evolution of the radio emission, emphasizing the need for more complex models. ASASSN-19bt joins the population of TDEs that display unusual radio emission at late times. Conducting long-term radio observations of these TDEs, especially during the later phases, will be crucial for understanding how these types of radio emission in TDEs are produced.",
+        "author": [
+          "Christy, Collin T.",
+          "Alexander, Kate D.",
+          "Margutti, Raffaella",
+          "Wieringa, Mark",
+          "Cendes, Yvette",
+          "Chornock, Ryan",
+          "Laskar, Tanmoy",
+          "Berger, Edo",
+          "Bietenholz, Michael",
+          "Coppejans, Deanne L.",
+          "De Colle, Fabio",
+          "Eftekhari, Tarraneh",
+          "Holoien, Thomas W.-S.",
+          "Matsumoto, Tatsuya",
+          "Miller-Jones, James C. A.",
+          "Ramirez-Ruiz, Enrico",
+          "Saxton, Richard",
+          "van Velzen, Sjoert"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": [
+          "The Peculiar Radio Evolution of the Tidal Disruption Event ASASSN-19bt"
+        ],
+        "year": "2024"
+      },
+      {
+        "bibcode": "2023MNRAS.519.5271C",
+        "abstract": "The All-Sky Automated Survey for Supernovae (ASAS-SN) is the first optical survey to monitor the entire sky, currently with a cadence of \u2272 24 h down to g \u2272 18.5 mag. ASAS-SN has routinely operated since 2013, collecting ~ 2 000 to over 7 500 epochs of V- and g-band observations per field to date. This work illustrates the first analysis of ASAS-SN's newer, deeper, and higher cadence g-band data. From an input source list of ~55 million isolated sources with g &lt; 18 mag, we identified 1.5 \u00d7 10<SUP>6</SUP> variable star candidates using a random forest (RF) classifier trained on features derived from Gaia, 2MASS, and AllWISE. Using ASAS-SN g-band light curves, and an updated RF classifier augmented with data from Citizen ASAS-SN, we classified the candidate variables into eight broad variability types. We present a catalogue of ~116 000 new variable stars with high-classification probabilities, including ~111 000 periodic variables and ~5 000 irregular variables. We also recovered ~263 000 known variable stars.",
+        "author": [
+          "Christy, C. T.",
+          "Jayasinghe, T.",
+          "Stanek, K. Z.",
+          "Kochanek, C. S.",
+          "Thompson, T. A.",
+          "Shappee, B. J.",
+          "Holoien, T. W.-S.",
+          "Prieto, J. L.",
+          "Dong, Subo",
+          "Giles, W."
+        ],
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "title": [
+          "The ASAS-SN catalogue of variable stars X: discovery of 116 000 new variable stars using G-band photometry"
+        ],
+        "year": "2023"
+      },
+      {
+        "bibcode": "2022PASP..134b4201C",
+        "abstract": "We present the first results from Citizen ASAS-SN, a citizen science project for the All-Sky Automated Survey for Supernovae (ASAS-SN) hosted on the Zooniverse platform. Citizen ASAS-SN utilizes the newer, deeper, higher cadence ASAS-SN g-band data and tasks volunteers to classify periodic variable star candidates based on their phased light curves. We started from 40,640 new variable candidates from an input list of ~7.4 million stars with \u03b4 &lt; -60\u00b0 and the volunteers identified 10,420 new discoveries which they classified as 4234 pulsating variables, 3132 rotational variables, 2923 eclipsing binaries, and 131 variables flagged as Unknown. They classified known variable stars with an accuracy of 89% for pulsating variables, 81% for eclipsing binaries, and 49% for rotational variables. We examine user performance, agreement between users, and compare the citizen science classifications with our machine learning classifier updated for the g-band light curves. In general, user activity correlates with higher classification accuracy and higher user agreement. We used the user's \"Junk\" classifications to develop an effective machine learning classifier to separate real from false variables, and there is a clear path for using this \"Junk\" training set to significantly improve our primary machine learning classifier. We also illustrate the value of Citizen ASAS-SN for identifying unusual variables with several examples.",
+        "author": [
+          "Christy, C. T.",
+          "Jayasinghe, T.",
+          "Stanek, K. Z.",
+          "Kochanek, C. S.",
+          "Way, Z.",
+          "Prieto, J. L.",
+          "Shappee, B. J.",
+          "Holoien, T. W.-S.",
+          "Thompson, T. A.",
+          "Schneider, A."
+        ],
+        "pub": "Publications of the Astronomical Society of the Pacific",
+        "title": [
+          "Citizen ASAS-SN Data Release. I. Variable Star Classification Using Citizen Science"
+        ],
+        "year": "2022"
+      },
+      {
+        "bibcode": "2021RNAAS...5...38C",
+        "abstract": "We present \"Citizen ASAS-SN,\" a citizen science project hosted on the Zooniverse platform which utilizes data from the All-Sky Automated Survey for SuperNovae (ASAS-SN). Volunteers are presented with ASAS-SN g-band light curves of variable star candidates. The classification workflow allows volunteers to classify these sources into major variable groups, while also allowing for the identification of unique variable stars for additional follow-up.",
+        "author": [
+          "Christy, C. T.",
+          "Jayasinghe, T.",
+          "Stanek, K. Z.",
+          "Kochanek, C. S.",
+          "Way, Z.",
+          "Prieto, J. L.",
+          "Shappee, B. J.",
+          "Holoien, T. W.-S.",
+          "Thompson, T. A."
+        ],
+        "pub": "Research Notes of the American Astronomical Society",
+        "title": [
+          "Citizen ASAS-SN: Citizen Science with The All-Sky Automated Survey for SuperNovae (ASAS-SN)"
+        ],
+        "year": "2021"
+      }
+    ]
+  }
+}

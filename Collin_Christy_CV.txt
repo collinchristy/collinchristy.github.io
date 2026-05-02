@@ -1,0 +1,28 @@
+Collin Christy
+Astrophysics Researcher
+
+Contact
+Email: collinchristy@arizona.edu
+GitHub: github.com/collinchristy
+
+Profile
+Astrophysicist focused on energetic extragalactic transients, including tidal disruption events, gamma-ray bursts, and engine-driven supernovae. Experienced in multiwavelength follow-up, jet physics, and collaborative observational campaigns.
+
+Education
+- Ph.D. in Astrophysics — University of Arizona (expected/completed)
+- B.S. in Physics or Astronomy — [Institution]
+
+Research Experience
+- Observational follow-up of transient sources using radio, millimeter, and X-ray telescopes
+- Modeling of relativistic jets, outflows, and shock interactions in explosive events
+- Publication and presentation of results for astronomy research audiences
+
+Selected Publications
+- Christy et al. (2025), Tidal Disruption Event Outflows, ApJ
+- Christy & Alexander (2024), Gamma-Ray Burst Radio Afterglows, MNRAS
+- Christy et al. (2024), Engine-Driven Supernovae, ApJL
+
+Skills
+- Multiwavelength data analysis
+- Time-domain astronomy and transient modeling
+- Scientific programming and publication preparation

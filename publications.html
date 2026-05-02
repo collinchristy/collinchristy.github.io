@@ -2,31 +2,54 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Publications - Collin Christy</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-    <h1>Collin Christy</h1>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="research.html">Research</a>
-        <a href="publications.html">Publications</a>
-        <a href="contact.html">Contact</a>
-    </nav>
-</header>
+    <header>
+        <div class="header-inner">
+            <div class="brand">
+                <span class="brand-dot"></span>
+                <span class="brand-title">Collin Christy</span>
+            </div>
+            <nav>
+                <a href="index.html">Home</a>
+                <a href="research.html">Research</a>
+                <a href="publications.html" class="active">Publications</a>
+                <a href="cv.html">CV</a>
+                <a href="contact.html">Contact</a>
+            </nav>
+        </div>
+    </header>
 
-<div class="container">
-    <h2>Publications</h2>
-    <ul>
-        <li>Christy et al. (2025), *Tidal Disruption Event Outflows*, ApJ</li>
-        <li>Christy & Alexander (2024), *Gamma-Ray Burst Radio Afterglows*, MNRAS</li>
-        <li>Christy et al. (2024), *Engine-Driven Supernovae*, ApJL</li>
-    </ul>
-</div>
+    <main>
+        <section class="hero">
+            <div class="hero-text">
+                <p class="hero-eyebrow">Selected work</p>
+                <h1 class="hero-title">Peer-reviewed studies on cosmic explosions and relativistic outflows.</h1>
+                <p class="hero-copy">These publications showcase observational discoveries, afterglow modeling, and interpretation of energetic transient phenomena.</p>
+            </div>
+        </section>
 
-<footer>
-    &copy; 2025 Collin Christy
-</footer>
+        <section class="section">
+            <h2>My first-author papers</h2>
+            <p class="section-intro">Selected first-author work with full publication details.</p>
+            <div id="first-author-publications" class="cards publication-cards"></div>
+        </section>
+
+        <section class="section">
+            <h2>Other publications</h2>
+            <p class="section-intro">Additional published work, including collaborations and co-authored papers.</p>
+            <div id="other-publications" class="cards publication-cards"></div>
+            <p id="ads-status" class="section-intro">If these lists are empty, run the preload helper locally to generate the publication cache files.</p>
+        </section>
+
+        </section>
+    </main>
+    <script src="ads-publications.js"></script>
+    <footer>
+        &copy; 2026 Collin Christy · <a href="contact.html">Contact</a>
+    </footer>
 </body>
 </html>
