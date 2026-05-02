@@ -196,7 +196,7 @@ main {
 .cards {
     display: grid;
     gap: 1.5rem;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: 1fr;
     margin-top: 2rem;
 }
 
