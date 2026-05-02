@@ -110,7 +110,7 @@ main {
 
 .hero-content {
     display: grid;
-    grid-template-columns: 3fr 1fr;
+    grid-template-columns: 2fr 1.8fr;
     gap: 2rem;
     align-items: start;
     margin-bottom: 2rem;
