@@ -110,20 +110,20 @@ main {
 
 .hero-content {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 3rem;
-    align-items: center;
+    grid-template-columns: 2fr 1.2fr;
+    gap: 2rem;
+    align-items: start;
     margin-bottom: 2rem;
 }
 
 .hero-image {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
 }
 
 .hero-image img {
-    max-width: 100%;
+    width: 280px;
     height: auto;
     border-radius: 16px;
     box-shadow: 0 20px 60px rgba(96, 214, 255, 0.15);
